@@ -1,0 +1,4 @@
+A regulatory motif is a highly conserved sequence of nucleotides that occurs many times throughout the genome and serves some regulatory function. Computational methods have been developed to measure conservation of regulatory motifs across the genome, and to find new unannotated motifs de novo. Known motifs are often found in regions with high conservation, so we can increase our testing power by testing for conservation, and then finding signatures for regulatory motifs.
+Here, We've used several algorithms like creating Profile Matrix for the Motifs, Randomized search (Like Monte Carlo Algorithms) for Motifs in a given DNA Upstream Regions, and The Most Probable Kmer (K-lenght of the Motif) in a DNA Upstream Region.
+We've also implemented Probability with Pseudocounts.
+In order to Search the Motifs with atmost conservancy, we've implemented Gibbs Sampling Algorithm
